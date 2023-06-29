@@ -1,3 +1,4 @@
+[![Mastered](https://media.licdn.com/dms/image/D563DAQFIJGy_J4EvYA/image-scale_191_1128/0/1666883668428?e=1675425600&v=beta&t=q5s0E-n5z-gDvzZPdovK7oorksu-JESWk3DdbbvU2ss)](https://codegri.in)
 <h1 align="center">Hi 👋, I'm Ashish Kumar Varshney</h1>
 <h3 align="center">A passionate Software Engineer from India</h3>
 
